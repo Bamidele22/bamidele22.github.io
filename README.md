@@ -1,4 +1,5 @@
-# adexot.github.io
+## Credits
+This project is based on a template or work created by [# adexot.github.io].
 
 A personal website to showcase portfolio and experiment with awesome technologies.
 
