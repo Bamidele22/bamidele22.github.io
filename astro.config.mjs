@@ -3,6 +3,7 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
+  base: '/web/',
   integrations: [icon()],
   vite: {
     ssr: {
@@ -12,5 +13,5 @@ export default defineConfig({
   server: {
     port: 8000
   },
-  site: 'https://bamidele22.github.io'
+  site: 'https://bamidele22.github.io/web'
 });
