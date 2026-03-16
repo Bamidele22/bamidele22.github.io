@@ -12,5 +12,5 @@ export default defineConfig({
   server: {
     port: 8000
   },
-  site: 'https://adexot.github.io'
+  site: 'https://bamidele22.github.io'
 });

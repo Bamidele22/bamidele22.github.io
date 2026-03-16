@@ -1,7 +1,7 @@
 {
-  "name": "oadex.dev",
+  "name": "web.dev.ayodeji",
   "version": "4.0.0",
-  "description": "Adekunle Oseni",
+  "description": "Ayodeji Bamidele",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -9,20 +9,20 @@
     "preview": "astro preview"
   },
   "keywords": [
-    "Adekunle",
-    "Oseni",
-    "Software Engineer",
-    "Frontend",
-    "Web",
-    "JavaScript",
-    "React",
+    "Ayodeji",
+    "Bamidele",
+    "DevOps Engineer",
+    "DevOps",
+    "Cloud",
+    "Python",
+    "AWS",
     "Performance",
-    "PWA",
+    "Automation",
     "Cloud",
     "Engineering",
     "Best practices"
   ],
-  "author": "Adekunle Oseni",
+  "author": "Ayodeji Bamidele",
   "license": "ISC",
   "devDependencies": {
     "astro": "^5.13.5",
